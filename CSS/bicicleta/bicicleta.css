@@ -11,7 +11,7 @@
   text-transform: uppercase;
 }
 
-.bicicletas-imagens {
+.bicicleta-imagens {
   display: flex;
   flex-wrap: wrap;
   gap: 20px;
