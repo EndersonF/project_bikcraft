@@ -7,3 +7,8 @@ initAtivarLink();
 initAtivarOrcamento();
 initPerguntasFrequentes();
 initGaleriaBicicleta();
+
+//Animação do site Bikcraft
+if (window.SimpleAnime) {
+    new SimpleAnime();
+}
